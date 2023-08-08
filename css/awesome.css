@@ -1,0 +1,62 @@
+.awesome {
+    background-color: #fff;
+    padding: 80px 0;
+}
+
+.title {
+    font-family: "Raleway";
+    font-size: 36px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.line {
+    border-bottom: 2px solid rgba(231, 36, 36, 1);
+    width: 64px;
+    margin: auto;
+    padding-top: 34px;
+}
+
+.description {
+    margin-top: 34px;
+    margin-bottom: 68px;
+}
+
+.description p {
+    text-align: center;
+    font-size: 14px;
+    color: rgba(134, 135, 139, 1);
+}
+
+.info-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-card {
+    width: 350px;
+}
+
+.info-card__img {
+    width: 70px;
+    height: 70px;
+    border: 1px solid rgba(231, 36, 36, 1);
+    margin: 0 auto 30px;
+    border-radius: 50%;
+}
+
+.info-card__img img {
+    display: block;
+    margin:  18px auto;
+}
+
+.info-card__title {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.info-card__text p {
+    text-align: center;
+    font-size: 14px;
+}
